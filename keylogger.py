@@ -1,8 +1,4 @@
 """
-Copyright (c) 2015, Aman Deep
-All rights reserved.
-
-
 A simple keylogger witten in python for linux platform
 All keystrokes are recorded in a log file.
 
